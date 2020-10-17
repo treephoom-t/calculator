@@ -8,4 +8,9 @@ public class Calculator {
     public float subtract(float a, float b) {
         return a - b;
     }
+
+    public float multiply(float a, float b) {
+        return a * b;
+    }
+
 }
